@@ -1,2 +1,2 @@
 # images
-the collection of my resource image
+the collection of images
