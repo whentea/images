@@ -1,2 +1,2 @@
 # images
-the collection of images
+the collection of images (de verzameling afbeeldingen)
